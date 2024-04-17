@@ -5,26 +5,14 @@
   Estudando atualmente no <a href="https://rodolfomori.com.br/devclub/"><strong>DevClub</strong></a>, estou desenvolvendo projetos acadêmicos e pessoais para exercitar minhas habilidades como programador, com o objetivo    de me tornar um Desenvolvedor de alto Nível.
 </p>
 
-## 🛠 Languages and Tech:
+💻 **Tech Stack:** <br/>
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,git,github,vscode,&perline=9)](https://skillicons.dev)
+ <br/> <br/>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-**Aplicações e dados**
-
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5"/></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3"/></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript"/></code>
-
-**DevOps**
-
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git"/></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub"/></code>
-
-**Ferramentas de desenvolvimento**
-
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VsCode"/></code>
-
-<br/>
+📊 **GitHub Stats:** <br/>
 
 ![GuilhermeCoutinho-r GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermercoutinho&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermercoutinho&layout=compact&theme=dracula)
@@ -37,5 +25,11 @@
   <a href="https://www.facebook.com/guilhermecoutinho.rc" target="_blank" title="Facebook">
     <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg" />
   </a>
-  
 </p>
+
+<div align='center'>
+  
+🎯 **GitHub Metrics**
+
+<a height="140em" href="http://www.github.com/guilhermercoutinho"><img src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermercoutinho&stroke=2ea043&background=171717&ring=3382ed&fire=ff6347&currStreakNum=0bd967&currStreakLabel=3382ed&sideNums=0bd967&sideLabels=3382ed&dates=0bd967&hide_border=true" /></a>
+</div>
