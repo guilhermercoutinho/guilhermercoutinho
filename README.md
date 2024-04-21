@@ -23,9 +23,6 @@
   <a href="https://www.linkedin.com/in/coutinho-guilherme-rc/" target="_blank" title="Linkedin">
     <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
   </a>
-  <a href="https://www.facebook.com/guilhermecoutinho.rc" target="_blank" title="Facebook">
-    <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg" />
-  </a>
 </p>
 
 <div align='center'>
