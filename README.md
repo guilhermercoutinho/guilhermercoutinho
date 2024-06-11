@@ -10,7 +10,7 @@
 
 💻 **Tech Stack:** <br/>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,git,github,vscode,&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,nodejs,git,github,vscode,&perline=9)](https://skillicons.dev)
  <br/> <br/>
 
 📊 **GitHub Stats:** <br/>
