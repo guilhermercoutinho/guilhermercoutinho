@@ -1,12 +1,12 @@
 # Olá, eu sou o Guilherme 😎 
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
 <p align="left"> 
   Estou em transição de carreira para a área de <strong>Desenvolvimento Web</strong>.<br>
   Estudando atualmente no <a href="https://rodolfomori.com.br/devclub/"><strong>DevClub</strong></a>, estou desenvolvendo projetos acadêmicos e pessoais para exercitar minhas habilidades como programador, com o objetivo    de me tornar um Desenvolvedor de alto Nível.
 </p>
 <br/> <br/>
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 💻 **Languages ​​and Frameworks:** <br/>
 
