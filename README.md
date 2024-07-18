@@ -18,17 +18,16 @@
  [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,&perline=9)](https://skillicons.dev)
  <br/> <br/>
 
+
 📊 **GitHub Stats:** <br/>
 
 ![GuilhermeCoutinho-r GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermercoutinho&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermercoutinho&layout=compact&theme=dracula)
 
 ## 💻 Conecte-se comigo
-<p align="left">
-  <a href="https://www.linkedin.com/in/coutinho-guilherme-rc/" target="_blank" title="Linkedin">
-    <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
-  </a>
-</p>
+[![Linkedin Badge](https://img.shields.io/badge/-GuilhermeCoutinho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-rcoutinho/)](https://www.linkedin.com/in/guilherme-rcoutinho/) 
+| 
+[![Gmail Badge](https://img.shields.io/badge/-guilhermecoutinho.rc@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guilhermecoutinho.rc@gmail.com)](mailto:guilhermecoutinho.rc@gmail.com)
 
 <div align='center'>
   
