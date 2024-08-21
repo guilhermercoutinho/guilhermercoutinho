@@ -10,7 +10,7 @@
 
 💻 **Languages ​​and Frameworks:** <br/>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,&perline=9)](https://skillicons.dev)
  <br/> <br/>
 
  🛠 **Development Tools:** <br/>
